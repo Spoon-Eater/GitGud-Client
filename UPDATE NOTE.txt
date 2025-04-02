@@ -1,0 +1,11 @@
+Hello, 
+For this very first GitGud update i added not a lot of stuff but it's quite nice.
+
+ - Added ingame chat with "T" wich stand for Trashtalk
+ - Replaced the old collisions for more accurate and precise one following the animations so no more leaning collisions problem
+ - fixed the sniper unscope animation not going on the last frame
+ - added some blending fade to the fps animations to make the transitions between them smoother and less clunky
+
+And for the upcoming new update of the next week im gonna add the loadout system to choose your guns and of course
+i will also create 2 new secondary weapons.
+Hope im gonna see you there !
